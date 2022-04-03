@@ -1,0 +1,11 @@
+.order-container{
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+}
+.right-order-container{
+    background-color: bisque;
+}
+.left-order-container{
+    justify-self: center;
+    align-self: center;
+}
